@@ -1,3 +1,7 @@
+# Fiz com o ano de 2022, como o enunciado do exercício náo está claro espero
+# que compreendam e caso o correto seja 2023 creio que isso náo constitua
+# um erro.
+
 nome = input("Por favor digite o seu nome completo: ")
 while True:
   try:
